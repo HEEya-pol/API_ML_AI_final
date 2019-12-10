@@ -43,7 +43,7 @@
 - 上线商城功能和上门服务，增加产品盈利
 ## 产品原型
 1. 宠物识别
-![](https://upload-images.jianshu.io/upload_images/9510447-7e347ad00b048fbd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![ ](https://upload-images.jianshu.io/upload_images/9510447-7e347ad00b048fbd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 2. 宠物场所搜索
 ![ ](https://upload-images.jianshu.io/upload_images/9510447-8b6a13dc185a874b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 产品架构图
