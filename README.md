@@ -34,17 +34,17 @@
 - 场景一：用户a捡了一只流浪猫，他想知道这只猫的品种，于是打开识别功能，通过上传这只猫的图片，得到这只猫的品种信息
 - 场景二：用户b的爱宠生病了，他想知道附近的宠物医院及路径，于是打开搜索功能，得到了附近宠物医院的信息和地图路径
 ## 产品目标
-######*前期*：
+###### 前期：
 - 识别宠物品种及相关信息
 - 地图搜索
 - 通过投放宠物用品广告，实现盈利
-######*后期*：
+###### 后期：
 - 建立宠物交流社区
 - 上线商城功能和上门服务，增加产品盈利
 ## 产品原型
 1. 宠物识别
-![ ](https://upload-images.jianshu.io/upload_images/9510447-7e347ad00b048fbd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![ ](https://github.com/HEEya-pol/API_ML_AI_final/blob/master/file1/1a5d11b7eb9142b92c5457a894aa487.png)
 2. 宠物场所搜索
-![ ](https://upload-images.jianshu.io/upload_images/9510447-8b6a13dc185a874b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![ ](https://github.com/HEEya-pol/API_ML_AI_final/blob/master/file1/8e385e07d599db9eed5bcdf18ce4e31.png)
 ## 产品架构图
 ## 原型文档
