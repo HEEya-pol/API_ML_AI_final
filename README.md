@@ -48,3 +48,74 @@
 ![ ](https://github.com/HEEya-pol/API_ML_AI_final/blob/master/file1/8e385e07d599db9eed5bcdf18ce4e31.png)
 ## 产品架构图
 ## 原型文档
+## API的调用
+###### 接口描述：
+识别近八千种动物，接口返回动物名称，支持获取识别结果的百科信息，接口返回百科词条URL、图片和描述，支持自定义返回词条数
+###### 请求地址：https://aip.baidubce.com/rest/2.0/image-classify/v1/animal
+###### 服务示例：
+- 输入内容：
+```
+# encoding:utf-8
+import base64
+import urllib.parse
+import urllib.request
+ 
+'''
+动物识别
+'''
+ 
+request_url = "https://aip.baidubce.com/rest/2.0/image-classify/v1/animal"
+ 
+# 二进制方式打开图片文件
+f = open('C:/Users/Alyfu/Desktop/f.png', 'rb')
+img = base64.b64encode(f.read())
+ 
+params = {"image":img,"top_num":6}
+params = urllib.parse.urlencode(params).encode(encoding='UTF8')
+ 
+access_token = '[调用鉴权接口获取的token]'
+request_url = request_url + "?access_token=" + access_token
+request = urllib.request.Request(url=request_url, data=params)
+request.add_header('Content-Type', 'application/x-www-form-urlencoded')
+response = urllib.request.urlopen(request)
+content = response.read()
+if content:
+    print(bytes(content).decode('utf-8'))
+```
+- 返回结果
+```HTTP/1.1 200 OK
+x-bce-request-id: 73c4e74c-3101-4a00-bf44-fe246959c05e
+Cache-Control: no-cache
+Server: BWS
+Date: Tue, 18 Oct 2016 02:21:01 GMT
+Content-Type: application/json;charset=UTF-8
+{
+    "log_id": "3833028759661534105",
+   "result": [
+     {
+        "score": "0.208929",
+            "name": "美国短毛猫"
+       },
+     {
+       "score": "0.139112",
+        "name": "家猫"
+        },
+      {
+       "score": "0.0580069",
+      "name": "布偶猫"
+     },
+      {
+       "score": "0.0542856",
+      "name": "波米拉猫"
+      },
+          {
+         "score": "0.0482468",
+         "name": "英国短毛猫"
+         },
+         {
+            "score": "0.0471158",
+            "name": "欧洲短毛猫"
+       }
+    ]
+} 
+```
