@@ -43,9 +43,9 @@
 - 上线商城功能和上门服务，增加产品盈利
 ## 产品原型
 1. 宠物识别
-![ ](https://github.com/HEEya-pol/API_ML_AI_final/blob/master/image/1a5d11b7eb9142b92c5457a894aa487.png)
+![ ](https://github.com/HEEya-pol/API_ML_AI_final/blob/master/images/1a5d11b7eb9142b92c5457a894aa487.png)
 2. 宠物场所搜索
-![ ](https://github.com/HEEya-pol/API_ML_AI_final/blob/master/image/8e385e07d599db9eed5bcdf18ce4e31.png)
+![ ](https://github.com/HEEya-pol/API_ML_AI_final/blob/master/images/8e385e07d599db9eed5bcdf18ce4e31.png)
 ## 产品架构图
 ![ ](https://upload-images.jianshu.io/upload_images/9510447-10ac6247e1d57761.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 原型文档
