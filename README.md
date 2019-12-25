@@ -47,6 +47,7 @@
 2. 宠物场所搜索
 ![ ](https://github.com/HEEya-pol/API_ML_AI_final/blob/master/image/8e385e07d599db9eed5bcdf18ce4e31.png)
 ## 产品架构图
+![ ](https://upload-images.jianshu.io/upload_images/9510447-10ac6247e1d57761.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 原型文档
 ## API的调用
 ###### 接口描述：
