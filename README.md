@@ -49,7 +49,8 @@
 ## 产品架构图
 ![ ](https://upload-images.jianshu.io/upload_images/9510447-10ac6247e1d57761.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 原型文档
-[爱宠APP产品原型](https://heeya-pol.github.io/aichong_axure/)
+- 点击查看产品原型          [爱宠APP产品原型](https://heeya-pol.github.io/aichong_axure/)
+- 跳转至原型文档下载入口     [爱宠APP产品原型下载区](https://github.com/HEEya-pol/aichong_axure)
 ## API的调用
 ###### 接口描述：
 识别近八千种动物，接口返回动物名称，支持获取识别结果的百科信息，接口返回百科词条URL、图片和描述，支持自定义返回词条数
