@@ -43,11 +43,11 @@
 - 上线商城功能和上门服务，增加产品盈利
 ## 产品原型
 1. 宠物识别
-![ ](https://github.com/HEEya-pol/API_ML_AI_final/blob/master/images/1a5d11b7eb9142b92c5457a894aa487.png)
+![ ](images/1a5d11b7eb9142b92c5457a894aa487.png)
 2. 宠物场所搜索
-![ ](https://github.com/HEEya-pol/API_ML_AI_final/blob/master/images/8e385e07d599db9eed5bcdf18ce4e31.png)
+![ ](images/8e385e07d599db9eed5bcdf18ce4e31.png)
 ## 产品架构图
-![ ](https://upload-images.jianshu.io/upload_images/9510447-10ac6247e1d57761.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![ ](images/9510447-10ac6247e1d57761.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 原型文档
 - 点击查看产品原型          [爱宠APP产品原型](https://heeya-pol.github.io/aichong_axure/)
 - 跳转至原型文档下载入口     [爱宠APP产品原型下载区](https://github.com/HEEya-pol/aichong_axure)
