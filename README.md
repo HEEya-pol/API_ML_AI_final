@@ -6,13 +6,14 @@
 |项目名称|爱宠APP|
 |项目负责人|陈熙|
 |学号|171013009|
-|文档状态| |
+|文档状态| 已完成|
 
 # 价值主张设计
 ### 一句话版本
-- 
+- 本产品为宠物管家APP，为用户饲养宠物提供帮助，满足宠物主人饲养宠物的日常需求，从而使宠物获得更舒适的生活。
+
 ### 一分钟版本
-- 
+- 本产品为宠物管家APP，通过调用动物识别API和地图API，主打拍照/图片搜索宠物类别及相关信息，推荐、搜索宠物场所的功能，帮助宠物主人了解以及护理爱宠，满足宠物主人饲养宠物的日常需求，从而使宠物获得更舒适的生活。
 ## 背景
 随着经济的发展，人们对精神层面的追求越来越高，越来越多的人开始饲养宠物，人们饲养宠物成为精神、生活伴侣。近年来宠物经济火爆，各市场领域规模激增，人们对宠物以及宠物周边服务的需求在持续不断增长着，但是宠物饲养趋势不断攀升，市面上的宠物app仍就不多，还处于探索阶段。
 ## 产品定位
@@ -107,3 +108,12 @@
 |成熟度|⭐ ⭐ ⭐ ⭐  |⭐ ⭐ ⭐ ⭐ ⭐  |
 |性价比| ⭐ ⭐ ⭐  |⭐ ⭐ ⭐ ⭐   |
 
+## 清单
+- 产品原型          [爱宠APP产品原型](https://heeya-pol.github.io/aichong_axure/)
+- 原型文档下载入口     [爱宠APP产品原型下载区](https://github.com/HEEya-pol/aichong_axure)
+- [百度AI动物识别调用代码入口](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E6%8B%8D%E7%85%A7%E6%90%9C%E7%B4%A2.md)
+- [高德地图API调用代码入口](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E9%99%84%E8%BF%91%E5%9C%BA%E6%89%80%E4%BB%A3%E7%A0%81.md)
+- [百度动物识别](https://ai.baidu.com/tech/imagerecognition/animal)
+- [动物识别技术文档](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Zk3bcxdfr)
+- [高德地图API](https://lbs.amap.com/)
+- [高德地图API产品文档](https://lbs.amap.com/api/webservice/gettingstarted)
