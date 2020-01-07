@@ -52,7 +52,9 @@
 - 建立宠物交流社区
 - 上线商城功能和上门服务，增加产品盈利
 ## 人工智能概率性
-- 
+- 动物识别成功率受图片清晰度、光线等客观因素影响。当图片模糊、光线不佳，或者是图片上的动物存在遮挡物，都会降低动物识别成功率，导致识别失败。
+- 被识别图片中动物种类多，会降低识别结果的准确度。
+- 收到网络信号，或者信号干扰，会导致无法正常使用APP的功能。
 
 # 原型
 ## 产品架构图
@@ -74,7 +76,7 @@
 ### 使用水平：输入请求代码，返回响应结果
 - 代码过长放入Gitee仓库，点击查看[百度动物识别API](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E6%8B%8D%E7%85%A7%E6%90%9C%E7%B4%A2.md)
 [高德地图API](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E9%99%84%E8%BF%91%E5%9C%BA%E6%89%80%E4%BB%A3%E7%A0%81.md)
-#### 百度图像识别（一种：动物识别）
+#### 1.百度图像识别（一种：动物识别）
 ###### 接口描述：
 识别近八千种动物，接口返回动物名称，支持获取识别结果的百科信息，接口返回百科词条URL、图片和描述，支持自定义返回词条数
 ###### 请求地址：https://aip.baidubce.com/rest/2.0/image-classify/v1/animal
@@ -104,4 +106,4 @@
 |产品定价|[百度地图API定价规则](http://lbsyun.baidu.com/apiconsole/record)|[高德地图定价规则](https://lbs.amap.com/home/package?active=quota)|
 |成熟度|⭐ ⭐ ⭐ ⭐  |⭐ ⭐ ⭐ ⭐ ⭐  |
 |性价比| ⭐ ⭐ ⭐  |⭐ ⭐ ⭐ ⭐   |
-### API使用风险
+
