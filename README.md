@@ -1,8 +1,18 @@
 
-# 项目名称：宠物管家
+# 项目名称：宠物管家 ———— 爱宠APP
 
 | Title | Content |
 | --- | --- |
+|项目名称|爱宠APP|
+|项目负责人|陈熙|
+|学号|171013009|
+|文档状态| |
+
+# 价值主张设计
+### 一句话版本
+- 
+### 一分钟版本
+- 
 ## 背景
 随着经济的发展，人们对精神层面的追求越来越高，越来越多的人开始饲养宠物，人们饲养宠物成为精神、生活伴侣。近年来宠物经济火爆，各市场领域规模激增，人们对宠物以及宠物周边服务的需求在持续不断增长着，但是宠物饲养趋势不断攀升，市面上的宠物app仍就不多，还处于探索阶段。
 ## 产品定位
@@ -41,6 +51,10 @@
 ###### 后期：
 - 建立宠物交流社区
 - 上线商城功能和上门服务，增加产品盈利
+## 人工智能概率性
+- 
+
+# 原型
 ## 产品架构图
 ![ ](images/架构.png)
 ## 产品原型
@@ -56,17 +70,24 @@
 ## 原型文档
 - 点击查看产品原型          [爱宠APP产品原型](https://heeya-pol.github.io/aichong_axure/)
 - 跳转至原型文档下载入口     [爱宠APP产品原型下载区](https://github.com/HEEya-pol/aichong_axure)
-## API的调用
+# API的使用
+### 使用水平：输入请求代码，返回响应结果
+- 代码过长放入Gitee仓库，点击查看[百度动物识别API](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E6%8B%8D%E7%85%A7%E6%90%9C%E7%B4%A2.md)
+[高德地图API](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E9%99%84%E8%BF%91%E5%9C%BA%E6%89%80%E4%BB%A3%E7%A0%81.md)
+#### 百度图像识别（一种：动物识别）
 ###### 接口描述：
 识别近八千种动物，接口返回动物名称，支持获取识别结果的百科信息，接口返回百科词条URL、图片和描述，支持自定义返回词条数
 ###### 请求地址：https://aip.baidubce.com/rest/2.0/image-classify/v1/animal
 ###### 服务示例：
 - 代码过长放入gitee仓库，点击查看
 [代码入口](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E6%8B%8D%E7%85%A7%E6%90%9C%E7%B4%A2.md)
-#### 2. 高德地图API：
+#### 2. 高德地图API（三种：周边搜索、关键词搜索、路径规划）：
 ###### 接口描述：
 对于地图的搜索，搜索行为和结果主要是与地理位置相关的，搜索结果一般都直接展现在地图图面上
 ###### 请求地址：https://restapi.amap.com/v3/place/around?parameters
 ###### 服务示例：
 - 代码过长放入gitee仓库，点击查看
 [代码入口](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E9%99%84%E8%BF%91%E5%9C%BA%E6%89%80%E4%BB%A3%E7%A0%81.md)
+### API比较分析
+
+### API使用风险
