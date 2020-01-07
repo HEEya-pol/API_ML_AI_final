@@ -41,6 +41,8 @@
 ###### 后期：
 - 建立宠物交流社区
 - 上线商城功能和上门服务，增加产品盈利
+## 产品架构图
+![ ](images/架构.png)
 ## 产品原型
 1. 基本页面
 ![ ](images/基本页面.jpg)
@@ -50,8 +52,6 @@
 ![ ](images/文本搜索.png)
 4.附近搜索
 ![](images/附近.png)
-## 产品架构图
-![ ](images/9510447-10ac6247e1d57761.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ## 原型文档
 - 点击查看产品原型          [爱宠APP产品原型](https://heeya-pol.github.io/aichong_axure/)
 - 跳转至原型文档下载入口     [爱宠APP产品原型下载区](https://github.com/HEEya-pol/aichong_axure)
