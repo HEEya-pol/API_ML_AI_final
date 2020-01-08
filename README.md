@@ -75,8 +75,7 @@
 - 跳转至原型文档下载入口     [爱宠APP产品原型下载区](https://github.com/HEEya-pol/aichong_axure)
 # API的使用
 ### 使用水平：输入请求代码，返回响应结果
-#### 代码过长放入Gitee仓库，点击查看[百度动物识别API](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E6%8B%8D%E7%85%A7%E6%90%9C%E7%B4%A2.md)
-[高德地图API](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E9%99%84%E8%BF%91%E5%9C%BA%E6%89%80%E4%BB%A3%E7%A0%81.md)
+### API使用，代码过长放入Gitee仓库，点击查看[百度动物识别API](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E6%8B%8D%E7%85%A7%E6%90%9C%E7%B4%A2.md)[高德地图API](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E9%99%84%E8%BF%91%E5%9C%BA%E6%89%80%E4%BB%A3%E7%A0%81.md)
 #### 1.百度图像识别（一种：动物识别）
 ###### 接口描述：
 识别近八千种动物，接口返回动物名称，支持获取识别结果的百科信息，接口返回百科词条URL、图片和描述，支持自定义返回词条数
@@ -88,8 +87,7 @@
 对于地图的搜索，搜索行为和结果主要是与地理位置相关的，搜索结果一般都直接展现在地图图面上
 ###### 请求地址：https://restapi.amap.com/v3/place/around?parameters
 ###### 服务示例：
-- 代码过长放入gitee仓库，点击查看
-[代码入口](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E9%99%84%E8%BF%91%E5%9C%BA%E6%89%80%E4%BB%A3%E7%A0%81.md)
+#### 代码过长放入gitee仓库，点击查看[代码入口](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E9%99%84%E8%BF%91%E5%9C%BA%E6%89%80%E4%BB%A3%E7%A0%81.md)
 ### API比较分析
 #### 一、动物识别
 | | 百度动物识别| 阿里云【图像识别OCR】动物识别 |
