@@ -8,6 +8,7 @@
 |学号|171013009|
 |文档状态| 已完成|
 
+## [项目PPT及录屏](https://github.com/HEEya-pol/api_ppt)
 # 价值主张设计
 ### 一句话版本
 - 本产品为宠物管家APP，为用户饲养宠物提供帮助，满足宠物主人饲养宠物的日常需求，从而使宠物获得更舒适的生活。
@@ -114,3 +115,4 @@
 - [动物识别技术文档](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Zk3bcxdfr)
 - [高德地图API](https://lbs.amap.com/)
 - [高德地图API产品文档](https://lbs.amap.com/api/webservice/gettingstarted)
+- [项目PPT及录屏](https://github.com/HEEya-pol/api_ppt)
