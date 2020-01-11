@@ -83,3 +83,45 @@
 ###### 请求地址：https://aip.baidubce.com/rest/2.0/image-classify/v1/animal
 ###### 服务示例：
 #### 代码过长放入gitee仓库，点击查看[
+#### 代码过长放入gitee仓库，点击查看[代码入口](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E6%8B%8D%E7%85%A7%E6%90%9C%E7%B4%A2.md)	
+#### 2. 高德地图API（三种：周边搜索、关键词搜索、路径规划）：	
+###### 接口描述：	
+对于地图的搜索，搜索行为和结果主要是与地理位置相关的，搜索结果一般都直接展现在地图图面上	
+###### 请求地址：https://restapi.amap.com/v3/place/around?parameters	
+###### 服务示例：	
+#### 代码过长放入gitee仓库，点击查看[代码入口](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E9%99%84%E8%BF%91%E5%9C%BA%E6%89%80%E4%BB%A3%E7%A0%81.md)	
+### API比较分析	
+#### 一、动物识别	
+| | 百度动物识别| 阿里云【图像识别OCR】动物识别 |	
+|--|--|--|	
+|请求格式支持| PNG、JPG、JPEG、BMP、GIF**|.png, .jpg, .jpeg, .bmp|	
+|产品功能|1.识别近八千种动物，接口返回动物名称； 2.支持自定义返回结果数支持获取识别结果的百科信息，接口返回百科词条URL、图片和描述，支持自定义返回词条数|1.支持识别图片动物信息；2.包括动物名称或类型；3.识别准确率高达90%以上；4.可对URL网络图片或base64信息进行识别。	
+|产品定价|![百度动物识别定价](images/百度动物定价.png)|![阿里云动物识别定价](images/阿里动物定价.png)|	
+|成熟度|⭐ ⭐ ⭐ ⭐ ⭐  | ⭐ ⭐ ⭐ ⭐  |	
+|性价比| ⭐ ⭐ ⭐ ⭐  | ⭐ ⭐ ⭐  |	
+#### 二、地图API	
+| | 百度地图API | 高德地图API |	
+|--|--|--|	
+|产品功能|1.百度地图Web服务API为开发者提供http/https接口，即开发者通过http/https形式发起检索请求，获取返回json或xml格式的检索数据。用户可以基于此开发JavaScript、C#、C++、Java等语言的地图应用。2.服务提供多种场景的地点（POI）检索功能，包括城市检索、圆形区域检索、矩形区域检索。开发者可通过接口获取地点（POI）基础或详细地理信息。3.路线规划服务（又名Direction API）是一套REST风格的Web服务API，以HTTP/HTTPS形式提供了路线规划服务。目前，Direction API支持公交、骑行、驾车路线规划，Direction API支持中国大陆地区。|1.高德Web服务API向开发者提供HTTP接口，开发者可通过这些接口使用各类型的地理数据服务，返回结果支持JSON和XML格式。Web服务API对所有用户开放。2.搜索服务API是一类简单的HTTP接口，提供多种查询POI信息的能力，其中包括关键字搜索、周边搜索、多边形搜索、ID查询四种筛选机制。3.路径规划API是一套以HTTP形式提供的步行、公交、驾车查询及行驶距离计算接口，返回JSON 或 XML格式的查询数据，用于实现路径规划功能的开发。|	
+|产品定价|[百度地图API定价规则](http://lbsyun.baidu.com/apiconsole/record)|[高德地图定价规则](https://lbs.amap.com/home/package?active=quota)|	
+|成熟度|⭐ ⭐ ⭐ ⭐  |⭐ ⭐ ⭐ ⭐ ⭐  |	
+|性价比| ⭐ ⭐ ⭐  |⭐ ⭐ ⭐ ⭐   |	
+
+### API 使用风险报告	
+1. 当图片存在不清晰、光线不足是可能存在识别失败	
+2. 当图中出现多种动物时，会导致识别结果出错	
+3. 对于地图API的使用，需要用到用户的位置信息，可能存在对用户的隐私争议
+
+
+
+
+## 清单	## 清单
+- 产品原型          [爱宠APP产品原型](https://heeya-pol.github.io/aichong_axure/)	- 产品
+- 原型文档下载入口     [爱宠APP产品原型下载区](https://github.com/HEEya-pol/aichong_axure)	
+- [百度AI动物识别调用代码入口](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E6%8B%8D%E7%85%A7%E6%90%9C%E7%B4%A2.md)	
+- [高德地图API调用代码入口](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E9%99%84%E8%BF%91%E5%9C%BA%E6%89%80%E4%BB%A3%E7%A0%81.md)	
+- [百度动物识别](https://ai.baidu.com/tech/imagerecognition/animal)	
+- [动物识别技术文档](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Zk3bcxdfr)	
+- [高德地图API](https://lbs.amap.com/)	
+- [高德地图API产品文档](https://lbs.amap.com/api/webservice/gettingstarted)	
+- [项目PPT及录屏](https://github.com/HEEya-pol/api_ppt)
