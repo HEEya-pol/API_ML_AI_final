@@ -115,7 +115,7 @@
 
 
 
-## 清单	## 清单
+## 清单	
 - 产品原型          [爱宠APP产品原型](https://heeya-pol.github.io/aichong_axure/)	- 产品
 - 原型文档下载入口     [爱宠APP产品原型下载区](https://github.com/HEEya-pol/aichong_axure)	
 - [百度AI动物识别调用代码入口](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E6%8B%8D%E7%85%A7%E6%90%9C%E7%B4%A2.md)	
