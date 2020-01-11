@@ -1,4 +1,4 @@
-
+辛苦大家评价，原型操作说明在原型文档中
 # 项目名称：宠物管家 ———— 爱宠APP
 
 | Title | Content |
@@ -105,6 +105,11 @@
 |产品定价|[百度地图API定价规则](http://lbsyun.baidu.com/apiconsole/record)|[高德地图定价规则](https://lbs.amap.com/home/package?active=quota)|
 |成熟度|⭐ ⭐ ⭐ ⭐  |⭐ ⭐ ⭐ ⭐ ⭐  |
 |性价比| ⭐ ⭐ ⭐  |⭐ ⭐ ⭐ ⭐   |
+
+### API 使用风险报告
+1. 当图片存在不清晰、光线不足是可能存在识别失败
+2. 当图中出现多种动物时，会导致识别结果出错
+3. 对于地图API的使用，需要用到用户的位置信息，可能存在对用户的隐私争议
 
 ## 清单
 - 产品原型          [爱宠APP产品原型](https://heeya-pol.github.io/aichong_axure/)
