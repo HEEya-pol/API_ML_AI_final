@@ -1,4 +1,4 @@
-辛苦大家评价，原型操作说明在原型文档中
+辛苦大家评价，原型操作说明在原型文档中，加分代码调用了四种：百度动物识别、高德关键词搜索、周边搜索、路径规划
 # 项目名称：宠物管家 ———— 爱宠APP
 
 | Title | Content |
@@ -112,12 +112,4 @@
 3. 对于地图API的使用，需要用到用户的位置信息，可能存在对用户的隐私争议
 
 ## 清单
-- 产品原型          [爱宠APP产品原型](https://heeya-pol.github.io/aichong_axure/)
-- 原型文档下载入口     [爱宠APP产品原型下载区](https://github.com/HEEya-pol/aichong_axure)
-- [百度AI动物识别调用代码入口](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E6%8B%8D%E7%85%A7%E6%90%9C%E7%B4%A2.md)
-- [高德地图API调用代码入口](https://gitee.com/ALYFUxixi/apiapi_final_code/blob/master/%E9%99%84%E8%BF%91%E5%9C%BA%E6%89%80%E4%BB%A3%E7%A0%81.md)
-- [百度动物识别](https://ai.baidu.com/tech/imagerecognition/animal)
-- [动物识别技术文档](https://ai.baidu.com/ai-doc/IMAGERECOGNITION/Zk3bcxdfr)
-- [高德地图API](https://lbs.amap.com/)
-- [高德地图API产品文档](https://lbs.amap.com/api/webservice/gettingstarted)
-- [项目PPT及录屏](https://github.com/HEEya-pol/api_ppt)
+- 产品
